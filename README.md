@@ -31,24 +31,29 @@ To compile or run the source code of Oasis, ensure you have the following enviro
 * npm (Node Package Manager)
 * Compatible operating systems: Windows 8.1 or later.
 
-### For Developers (Running from Source)
+## For Developers (Running from Source)
 To clone the repository and run the application locally for development or inspection purposes, execute the following commands in your terminal:
 
 1. Clone the repository:
-   
-git clone https://github.com/TinkerbyteYT/OasisBrowser
+   ```bash
+   git clone https://github.com/TinkerbyteYT/OasisBrowser
+   ```
 
-3. Navigate into the project directory:
+2. Navigate into the project directory:
+   ```bash
+   cd OasisBrowser
+   ```
 
-cd Oasis
+3. Install the required Node.js dependencies defined in the package files:
+   ```bash
+   npm install
+   ```
 
-5. Install the required Node.js dependencies defined in the package files:
+4. Start the application:
+   ```bash
+   npm start
+   ```
 
-npm install
-
-7. Start the application:
-
-npm start
 
 ## Licensing and Distribution Terms
 
