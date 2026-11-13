@@ -35,16 +35,20 @@ To compile or run the source code of Oasis, ensure you have the following enviro
 To clone the repository and run the application locally for development or inspection purposes, execute the following commands in your terminal:
 
 1. Clone the repository:
-   git clone https://github.com/TinkerbyteYT/OasisBrowser
+   
+git clone https://github.com/TinkerbyteYT/OasisBrowser
 
-2. Navigate into the project directory:
-   cd Oasis
+3. Navigate into the project directory:
 
-3. Install the required Node.js dependencies defined in the package files:
-   npm install
+cd Oasis
 
-4. Start the application:
-   npm start
+5. Install the required Node.js dependencies defined in the package files:
+
+npm install
+
+7. Start the application:
+
+npm start
 
 ## Licensing and Distribution Terms
 
