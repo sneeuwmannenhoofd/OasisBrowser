@@ -36,7 +36,7 @@ To clone the repository and run the application locally for development or inspe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TinkerbyteYT/OasisBrowser
+   git clone https://github.com/sneeuwmannenhoofd/OasisBrowser
    ```
 
 2. Navigate into the project directory:
