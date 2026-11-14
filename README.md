@@ -24,6 +24,7 @@ Navigating to the Releases section of this repository provides access to the lat
 
 # FOR COMPILING:
 ## System Requirements and Dependencies for SOURCE CODE
+## NOTE: Compiling will be available after initial release; do not compile if browser is <v1.0
 
 To compile or run the source code of Oasis, ensure you have the following environments configured on your system:
 
