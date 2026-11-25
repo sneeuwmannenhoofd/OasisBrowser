@@ -1,4 +1,4 @@
-z# Oasis Browser
+# Oasis Browser
 
 Oasis is an open source, modern, smooth, and lightweight web browser built on top of the Chromium engine. Designed from the ground up to prioritize user privacy, Oasis completely removes Google's built-in telemetry, tracking scripts, and data collection mechanisms. 
 
@@ -50,11 +50,12 @@ To clone the repository and run the application locally for development or inspe
    npm install
    ```
 
-4. Start the application:
+4. Compile the application:
    ```bash
-   npm start
+   npm run dist
    ```
 
+5. Go to the 'dist' folder and select (win-)unpacked, or install the installer.
 
 ## Licensing and Distribution Terms
 
